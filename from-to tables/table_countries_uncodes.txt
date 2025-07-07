@@ -1,0 +1,263 @@
+Country,Alpha2code,Alpha3code,Numeric_code,Latitude_avg,Longitude_avg,reg_code,reg_name,area_code,area_name
+Afghanistan, AF, AFG,4,33,65,5501,Southern Asia,935,Asia
+Åland Islands, AX, ALA,248,60.116667,19.9,NA,NA,NA,NA
+Albania, AL, ALB,8,41,20,925,Southern Europe,908,Europe
+Algeria, DZ, DZA,12,28,3,912,Northern Africa,903,Africa
+American Samoa, AS, ASM,16,-14.3333,-170,957,Polynesia,909,Oceania
+Andorra, AD, AND,20,42.5,1.6,925,Southern Europe,908,Europe
+Angola, AO, AGO,24,-12.5,18.5,911,Middle Africa,903,Africa
+Anguilla, AI, AIA,660,18.25,-63.1667,915,Caribbean,904,Latin America and the Caribbean
+Antarctica, AQ, ATA,10,-90,0,NA,NA,NA,NA
+Antigua and Barbuda, AG, ATG,28,17.05,-61.8,915,Caribbean,904,Latin America and the Caribbean
+Argentina, AR, ARG,32,-34,-64,931,South America,904,Latin America and the Caribbean
+Armenia, AM, ARM,51,40,45,922,Western Asia,935,Asia
+Aruba, AW, ABW,533,12.5,-69.9667,915,Caribbean,904,Latin America and the Caribbean
+Australia, AU, AUS,36,-27,133,927,Australia/New Zealand,909,Oceania
+Austria, AT, AUT,40,47.3333,13.3333,926,Western Europe,908,Europe
+Azerbaijan, AZ, AZE,31,40.5,47.5,922,Western Asia,935,Asia
+Bahamas, BS, BHS,44,24.25,-76,915,Caribbean,904,Latin America and the Caribbean
+Bahrain, BH, BHR,48,26,50.55,922,Western Asia,935,Asia
+Bangladesh, BD, BGD,50,24,90,5501,Southern Asia,935,Asia
+Barbados, BB, BRB,52,13.1667,-59.5333,915,Caribbean,904,Latin America and the Caribbean
+Belarus, BY, BLR,112,53,28,923,Eastern Europe,908,Europe
+Belgium, BE, BEL,56,50.8333,4,926,Western Europe,908,Europe
+Belize, BZ, BLZ,84,17.25,-88.75,916,Central America,904,Latin America and the Caribbean
+Benin, BJ, BEN,204,9.5,2.25,914,Western Africa,903,Africa
+Bermuda, BM, BMU,60,32.3333,-64.75,-1,,905,Northern America
+Bhutan, BT, BTN,64,27.5,90.5,5501,Southern Asia,935,Asia
+"Bolivia, Plurinational State of", BO, BOL,68,-17,-65,931,South America,904,Latin America and the Caribbean
+Bolivia, BO, BOL,68,-17,-65,931,South America,904,Latin America and the Caribbean
+"Bonaire, Sint Eustatius and Saba", BQ, BES,535,12.183333,-68.233333,915,Caribbean,904,Latin America and the Caribbean
+Bosnia and Herzegovina, BA, BIH,70,44,18,925,Southern Europe,908,Europe
+Botswana, BW, BWA,72,-22,24,913,Southern Africa,903,Africa
+Bouvet Island, BV, BVT,74,-54.4333,3.4,NA,NA,NA,NA
+Brazil, BR, BRA,76,-10,-55,931,South America,904,Latin America and the Caribbean
+British Indian Ocean Territory, IO, IOT,86,-6,71.5,NA,NA,NA,NA
+Brunei Darussalam, BN, BRN,96,4.5,114.6667,920,South-Eastern Asia,935,Asia
+Brunei, BN, BRN,96,4.5,114.6667,920,South-Eastern Asia,935,Asia
+Bulgaria, BG, BGR,100,43,25,923,Eastern Europe,908,Europe
+Burkina Faso, BF, BFA,854,13,-2,914,Western Africa,903,Africa
+Burma, MM, MMR,104,22,98,920,South-Eastern Asia,935,Asia
+Burundi, BI, BDI,108,-3.5,30,910,Eastern Africa,903,Africa
+Cambodia, KH, KHM,116,13,105,920,South-Eastern Asia,935,Asia
+Cameroon, CM, CMR,120,6,12,911,Middle Africa,903,Africa
+Canada, CA, CAN,124,60,-95,-1,,905,Northern America
+Cape Verde, CV, CPV,132,16,-24,914,Western Africa,903,Africa
+Cayman Islands, KY, CYM,136,19.5,-80.5,915,Caribbean,904,Latin America and the Caribbean
+Central African Republic, CF, CAF,140,7,21,911,Middle Africa,903,Africa
+Chad, TD, TCD,148,15,19,911,Middle Africa,903,Africa
+Chile, CL, CHL,152,-30,-71,931,South America,904,Latin America and the Caribbean
+China, CN, CHN,156,35,105,906,Eastern Asia,935,Asia
+Christmas Island, CX, CXR,162,-10.5,105.6667,NA,NA,NA,NA
+Cocos (Keeling) Islands, CC, CCK,166,-12.5,96.8333,NA,NA,NA,NA
+Colombia, CO, COL,170,4,-72,931,South America,904,Latin America and the Caribbean
+Comoros, KM, COM,174,-12.1667,44.25,910,Eastern Africa,903,Africa
+"Congo, the Democratic Republic of the", CD, COD,180,0,25,911,Middle Africa,903,Africa
+Congo, CG, COG,178,-1,15,911,Middle Africa,903,Africa
+Cook Islands, CK, COK,184,-21.2333,-159.7667,957,Polynesia,909,Oceania
+Costa Rica, CR, CRI,188,10,-84,916,Central America,904,Latin America and the Caribbean
+Côte d'Ivoire, CI, CIV,384,8,-5,914,Western Africa,903,Africa
+Croatia, HR, HRV,191,45.1667,15.5,925,Southern Europe,908,Europe
+Cuba, CU, CUB,192,21.5,-80,915,Caribbean,904,Latin America and the Caribbean
+Curaçao, CW, CUW,531,12.166667,-68.966667,915,Caribbean,904,Latin America and the Caribbean
+Cyprus, CY, CYP,196,35,33,922,Western Asia,935,Asia
+Czech Republic, CZ, CZE,203,49.75,15.5,923,Eastern Europe,908,Europe
+Denmark, DK, DNK,208,56,10,924,Northern Europe,908,Europe
+Djibouti, DJ, DJI,262,11.5,43,910,Eastern Africa,903,Africa
+Dominica, DM, DMA,212,15.4167,-61.3333,915,Caribbean,904,Latin America and the Caribbean
+Dominican Republic, DO, DOM,214,19,-70.6667,915,Caribbean,904,Latin America and the Caribbean
+Ecuador, EC, ECU,218,-2,-77.5,931,South America,904,Latin America and the Caribbean
+Egypt, EG, EGY,818,27,30,912,Northern Africa,903,Africa
+El Salvador, SV, SLV,222,13.8333,-88.9167,916,Central America,904,Latin America and the Caribbean
+Equatorial Guinea, GQ, GNQ,226,2,10,911,Middle Africa,903,Africa
+Eritrea, ER, ERI,232,15,39,910,Eastern Africa,903,Africa
+Estonia, EE, EST,233,59,26,924,Northern Europe,908,Europe
+Ethiopia, ET, ETH,231,8,38,910,Eastern Africa,903,Africa
+Falkland Islands (Malvinas), FK, FLK,238,-51.75,-59,931,South America,904,Latin America and the Caribbean
+Faroe Islands, FO, FRO,234,62,-7,924,Northern Europe,908,Europe
+Fiji, FJ, FJI,242,-18,175,928,Melanesia,909,Oceania
+Finland, FI, FIN,246,64,26,924,Northern Europe,908,Europe
+France, FR, FRA,250,46,2,926,Western Europe,908,Europe
+French Guiana, GF, GUF,254,4,-53,931,South America,904,Latin America and the Caribbean
+French Polynesia, PF, PYF,258,-15,-140,957,Polynesia,909,Oceania
+French Southern Territories, TF, ATF,260,-43,67,NA,NA,NA,NA
+Gabon, GA, GAB,266,-1,11.75,911,Middle Africa,903,Africa
+Gambia, GM, GMB,270,13.4667,-16.5667,914,Western Africa,903,Africa
+Georgia, GE, GEO,268,42,43.5,922,Western Asia,935,Asia
+Germany, DE, DEU,276,51,9,926,Western Europe,908,Europe
+Ghana, GH, GHA,288,8,-2,914,Western Africa,903,Africa
+Gibraltar, GI, GIB,292,36.1833,-5.3667,925,Southern Europe,908,Europe
+Greece, GR, GRC,300,39,22,925,Southern Europe,908,Europe
+Greenland, GL, GRL,304,72,-40,-1,,905,Northern America
+Grenada, GD, GRD,308,12.1167,-61.6667,915,Caribbean,904,Latin America and the Caribbean
+Guadeloupe, GP, GLP,312,16.25,-61.5833,915,Caribbean,904,Latin America and the Caribbean
+Guam, GU, GUM,316,13.4667,144.7833,954,Micronesia,909,Oceania
+Guatemala, GT, GTM,320,15.5,-90.25,916,Central America,904,Latin America and the Caribbean
+Guernsey, GG, GGY,831,49.5,-2.56,924,Northern Europe,908,Europe
+Guinea-Bissau, GW, GNB,624,12,-15,914,Western Africa,903,Africa
+Guinea, GN, GIN,324,11,-10,914,Western Africa,903,Africa
+Guyana, GY, GUY,328,5,-59,931,South America,904,Latin America and the Caribbean
+Haiti, HT, HTI,332,19,-72.4167,915,Caribbean,904,Latin America and the Caribbean
+Heard Island and McDonald Islands, HM, HMD,334,-53.1,72.5167,NA,NA,NA,NA
+Holy See (Vatican City State), VA, VAT,336,41.9,12.45,925,Southern Europe,908,Europe
+Honduras, HN, HND,340,15,-86.5,916,Central America,904,Latin America and the Caribbean
+Hong Kong, HK, HKG,344,22.25,114.1667,906,Eastern Asia,935,Asia
+Hungary, HU, HUN,348,47,20,923,Eastern Europe,908,Europe
+Iceland, IS, ISL,352,65,-18,924,Northern Europe,908,Europe
+India, IN, IND,356,20,77,5501,Southern Asia,935,Asia
+Indonesia, ID, IDN,360,-5,120,920,South-Eastern Asia,935,Asia
+"Iran, Islamic Republic of", IR, IRN,364,32,53,5501,Southern Asia,935,Asia
+Iraq, IQ, IRQ,368,33,44,922,Western Asia,935,Asia
+Ireland, IE, IRL,372,53,-8,924,Northern Europe,908,Europe
+Isle of Man, IM, IMN,833,54.23,-4.55,924,Northern Europe,908,Europe
+Israel, IL, ISR,376,31.5,34.75,922,Western Asia,935,Asia
+Italy, IT, ITA,380,42.8333,12.8333,925,Southern Europe,908,Europe
+Ivory Coast, CI, CIV,384,8,-5,914,Western Africa,903,Africa
+Jamaica, JM, JAM,388,18.25,-77.5,915,Caribbean,904,Latin America and the Caribbean
+Japan, JP, JPN,392,36,138,906,Eastern Asia,935,Asia
+Jersey, JE, JEY,832,49.21,-2.13,924,Northern Europe,908,Europe
+Jordan, JO, JOR,400,31,36,922,Western Asia,935,Asia
+Kazakhstan, KZ, KAZ,398,48,68,5500,Central Asia,935,Asia
+Kenya, KE, KEN,404,1,38,910,Eastern Africa,903,Africa
+Kiribati, KI, KIR,296,1.4167,173,954,Micronesia,909,Oceania
+"Korea, Democratic People's Republic of", KP, PRK,408,40,127,906,Eastern Asia,935,Asia
+"Korea, Republic of", KR, KOR,410,37,127.5,906,Eastern Asia,935,Asia
+Kosovo, XK, XKX,95,42.583333,21,NA,NA,NA,NA
+Kuwait, KW, KWT,414,29.3375,47.6581,922,Western Asia,935,Asia
+Kyrgyzstan, KG, KGZ,417,41,75,5500,Central Asia,935,Asia
+Lao People's Democratic Republic, LA, LAO,418,18,105,920,South-Eastern Asia,935,Asia
+Latvia, LV, LVA,428,57,25,924,Northern Europe,908,Europe
+Lebanon, LB, LBN,422,33.8333,35.8333,922,Western Asia,935,Asia
+Lesotho, LS, LSO,426,-29.5,28.5,913,Southern Africa,903,Africa
+Liberia, LR, LBR,430,6.5,-9.5,914,Western Africa,903,Africa
+Libya, LY, LBY,434,25,17,912,Northern Africa,903,Africa
+Libyan Arab Jamahiriya, LY, LBY,434,25,17,912,Northern Africa,903,Africa
+Liechtenstein, LI, LIE,438,47.1667,9.5333,926,Western Europe,908,Europe
+Lithuania, LT, LTU,440,56,24,924,Northern Europe,908,Europe
+Luxembourg, LU, LUX,442,49.75,6.1667,926,Western Europe,908,Europe
+Macao, MO, MAC,446,22.1667,113.55,906,Eastern Asia,935,Asia
+"Macedonia, the former Yugoslav Republic of", MK, MKD,807,41.8333,22,925,Southern Europe,908,Europe
+Madagascar, MG, MDG,450,-20,47,910,Eastern Africa,903,Africa
+Malawi, MW, MWI,454,-13.5,34,910,Eastern Africa,903,Africa
+Malaysia, MY, MYS,458,2.5,112.5,920,South-Eastern Asia,935,Asia
+Maldives, MV, MDV,462,3.25,73,5501,Southern Asia,935,Asia
+Mali, ML, MLI,466,17,-4,914,Western Africa,903,Africa
+Malta, MT, MLT,470,35.8333,14.5833,925,Southern Europe,908,Europe
+Marshall Islands, MH, MHL,584,9,168,954,Micronesia,909,Oceania
+Martinique, MQ, MTQ,474,14.6667,-61,915,Caribbean,904,Latin America and the Caribbean
+Mauritania, MR, MRT,478,20,-12,914,Western Africa,903,Africa
+Mauritius, MU, MUS,480,-20.2833,57.55,910,Eastern Africa,903,Africa
+Mayotte, YT, MYT,175,-12.8333,45.1667,910,Eastern Africa,903,Africa
+Mexico, MX, MEX,484,23,-102,916,Central America,904,Latin America and the Caribbean
+"Micronesia, Federated States of", FM, FSM,583,6.9167,158.25,954,Micronesia,909,Oceania
+"Moldova, Republic of", MD, MDA,498,47,29,923,Eastern Europe,908,Europe
+Monaco, MC, MCO,492,43.7333,7.4,926,Western Europe,908,Europe
+Mongolia, MN, MNG,496,46,105,906,Eastern Asia,935,Asia
+Montenegro, ME, MNE,499,42,19,925,Southern Europe,908,Europe
+Montserrat, MS, MSR,500,16.75,-62.2,915,Caribbean,904,Latin America and the Caribbean
+Morocco, MA, MAR,504,32,-5,912,Northern Africa,903,Africa
+Mozambique, MZ, MOZ,508,-18.25,35,910,Eastern Africa,903,Africa
+Myanmar, MM, MMR,104,22,98,920,South-Eastern Asia,935,Asia
+Namibia, NA, NAM,516,-22,17,913,Southern Africa,903,Africa
+Nauru, NR, NRU,520,-0.5333,166.9167,954,Micronesia,909,Oceania
+Nepal, NP, NPL,524,28,84,5501,Southern Asia,935,Asia
+Netherlands Antilles, AN, ANT,530,12.25,-68.75,NA,NA,NA,NA
+Netherlands, NL, NLD,528,52.5,5.75,926,Western Europe,908,Europe
+New Caledonia, NC, NCL,540,-21.5,165.5,928,Melanesia,909,Oceania
+New Zealand, NZ, NZL,554,-41,174,927,Australia/New Zealand,909,Oceania
+Nicaragua, NI, NIC,558,13,-85,916,Central America,904,Latin America and the Caribbean
+Niger, NE, NER,562,16,8,914,Western Africa,903,Africa
+Nigeria, NG, NGA,566,10,8,914,Western Africa,903,Africa
+Niue, NU, NIU,570,-19.0333,-169.8667,957,Polynesia,909,Oceania
+Norfolk Island, NF, NFK,574,-29.0333,167.95,NA,NA,NA,NA
+Northern Mariana Islands, MP, MNP,580,15.2,145.75,954,Micronesia,909,Oceania
+Norway, NO, NOR,578,62,10,924,Northern Europe,908,Europe
+Oman, OM, OMN,512,21,57,922,Western Asia,935,Asia
+Pakistan, PK, PAK,586,30,70,5501,Southern Asia,935,Asia
+Palau, PW, PLW,585,7.5,134.5,954,Micronesia,909,Oceania
+"Palestinian Territory, Occupied", PS, PSE,275,32,35.25,922,Western Asia,935,Asia
+Panama, PA, PAN,591,9,-80,916,Central America,904,Latin America and the Caribbean
+Papua New Guinea, PG, PNG,598,-6,147,928,Melanesia,909,Oceania
+Paraguay, PY, PRY,600,-23,-58,931,South America,904,Latin America and the Caribbean
+Peru, PE, PER,604,-10,-76,931,South America,904,Latin America and the Caribbean
+Philippines, PH, PHL,608,13,122,920,South-Eastern Asia,935,Asia
+Pitcairn, PN, PCN,612,-24.7,-127.4,NA,NA,NA,NA
+Poland, PL, POL,616,52,20,923,Eastern Europe,908,Europe
+Portugal, PT, PRT,620,39.5,-8,925,Southern Europe,908,Europe
+Puerto Rico, PR, PRI,630,18.25,-66.5,915,Caribbean,904,Latin America and the Caribbean
+Qatar, QA, QAT,634,25.5,51.25,922,Western Asia,935,Asia
+Réunion, RE, REU,638,-21.1,55.6,910,Eastern Africa,903,Africa
+Romania, RO, ROU,642,46,25,923,Eastern Europe,908,Europe
+Russia, RU, RUS,643,60,100,923,Eastern Europe,908,Europe
+Russian Federation, RU, RUS,643,60,100,923,Eastern Europe,908,Europe
+Rwanda, RW, RWA,646,-2,30,910,Eastern Africa,903,Africa
+Saint Barthélemy, BL, BLM,652,17.897728,-62.834244,915,Caribbean,904,Latin America and the Caribbean
+"Saint Helena, Ascension and Tristan da Cunha", SH, SHN,654,-15.9333,-5.7,914,Western Africa,903,Africa
+Saint Kitts and Nevis, KN, KNA,659,17.3333,-62.75,915,Caribbean,904,Latin America and the Caribbean
+Saint Lucia, LC, LCA,662,13.8833,-61.1333,915,Caribbean,904,Latin America and the Caribbean
+Saint Martin (French part), MF, MAF,663,18.075278,-63.06,915,Caribbean,904,Latin America and the Caribbean
+Saint Pierre and Miquelon, PM, SPM,666,46.8333,-56.3333,-1,,905,Northern America
+Saint Vincent & the Grenadines, VC, VCT,670,13.25,-61.2,915,Caribbean,904,Latin America and the Caribbean
+Saint Vincent and the Grenadines, VC, VCT,670,13.25,-61.2,915,Caribbean,904,Latin America and the Caribbean
+Samoa, WS, WSM,882,-13.5833,-172.3333,957,Polynesia,909,Oceania
+San Marino, SM, SMR,674,43.7667,12.4167,925,Southern Europe,908,Europe
+Sao Tome and Principe, ST, STP,678,1,7,911,Middle Africa,903,Africa
+Saudi Arabia, SA, SAU,682,25,45,922,Western Asia,935,Asia
+Senegal, SN, SEN,686,14,-14,914,Western Africa,903,Africa
+Serbia, RS, SRB,688,44,21,925,Southern Europe,908,Europe
+Seychelles, SC, SYC,690,-4.5833,55.6667,910,Eastern Africa,903,Africa
+Sierra Leone, SL, SLE,694,8.5,-11.5,914,Western Africa,903,Africa
+Singapore, SG, SGP,702,1.3667,103.8,920,South-Eastern Asia,935,Asia
+Sint Maarten (Dutch part), SX, SXM,534,18.033333,-63.05,915,Caribbean,904,Latin America and the Caribbean
+Slovakia, SK, SVK,703,48.6667,19.5,923,Eastern Europe,908,Europe
+Slovenia, SI, SVN,705,46,15,925,Southern Europe,908,Europe
+Solomon Islands, SB, SLB,90,-8,159,928,Melanesia,909,Oceania
+Somalia, SO, SOM,706,10,49,910,Eastern Africa,903,Africa
+South Africa, ZA, ZAF,710,-29,24,913,Southern Africa,903,Africa
+South Georgia and the South Sandwich Islands, GS, SGS,239,-54.5,-37,NA,NA,NA,NA
+South Korea, KR, KOR,410,37,127.5,906,Eastern Asia,935,Asia
+South Sudan, SS, SSD,728,8,30,910,Eastern Africa,903,Africa
+Spain, ES, ESP,724,40,-4,925,Southern Europe,908,Europe
+Sri Lanka, LK, LKA,144,7,81,5501,Southern Asia,935,Asia
+St. Vincent and the Grenadines, VC, VCT,670,13.25,-61.2,915,Caribbean,904,Latin America and the Caribbean
+Sudan, SD, SDN,736,15,30,NA,NA,NA,NA
+Suriname, SR, SUR,740,4,-56,931,South America,904,Latin America and the Caribbean
+Svalbard and Jan Mayen, SJ, SJM,744,78,20,NA,NA,NA,NA
+Swaziland, SZ, SWZ,748,-26.5,31.5,913,Southern Africa,903,Africa
+Sweden, SE, SWE,752,62,15,924,Northern Europe,908,Europe
+Switzerland, CH, CHE,756,47,8,926,Western Europe,908,Europe
+Syrian Arab Republic, SY, SYR,760,35,38,922,Western Asia,935,Asia
+Taiwan, TW, TWN,158,23.5,121,906,Eastern Asia,935,Asia
+Tajikistan, TJ, TJK,762,39,71,5500,Central Asia,935,Asia
+"Tanzania, United Republic of", TZ, TZA,834,-6,35,910,Eastern Africa,903,Africa
+Thailand, TH, THA,764,15,100,920,South-Eastern Asia,935,Asia
+Timor-Leste, TL, TLS,626,-8.55,125.5167,920,South-Eastern Asia,935,Asia
+Togo, TG, TGO,768,8,1.1667,914,Western Africa,903,Africa
+Tokelau, TK, TKL,772,-9,-172,957,Polynesia,909,Oceania
+Tonga, TO, TON,776,-20,-175,957,Polynesia,909,Oceania
+Trinidad and Tobago, TT, TTO,780,11,-61,915,Caribbean,904,Latin America and the Caribbean
+Tunisia, TN, TUN,788,34,9,912,Northern Africa,903,Africa
+Turkey, TR, TUR,792,39,35,922,Western Asia,935,Asia
+Turkmenistan, TM, TKM,795,40,60,5500,Central Asia,935,Asia
+Turks and Caicos Islands, TC, TCA,796,21.75,-71.5833,915,Caribbean,904,Latin America and the Caribbean
+Tuvalu, TV, TUV,798,-8,178,957,Polynesia,909,Oceania
+Uganda, UG, UGA,800,1,32,910,Eastern Africa,903,Africa
+Ukraine, UA, UKR,804,49,32,923,Eastern Europe,908,Europe
+United Arab Emirates, AE, ARE,784,24,54,922,Western Asia,935,Asia
+United Kingdom, GB, GBR,826,54,-2,924,Northern Europe,908,Europe
+United States Minor Outlying Islands, UM, UMI,581,19.2833,166.6,NA,NA,NA,NA
+United States, US, USA,840,38,-97,-1,,905,Northern America
+Uruguay, UY, URY,858,-33,-56,931,South America,904,Latin America and the Caribbean
+Uzbekistan, UZ, UZB,860,41,64,5500,Central Asia,935,Asia
+Vanuatu, VU, VUT,548,-16,167,928,Melanesia,909,Oceania
+"Venezuela, Bolivarian Republic of", VE, VEN,862,8,-66,931,South America,904,Latin America and the Caribbean
+Venezuela, VE, VEN,862,8,-66,931,South America,904,Latin America and the Caribbean
+Viet Nam, VN, VNM,704,16,106,920,South-Eastern Asia,935,Asia
+Vietnam, VN, VNM,704,16,106,920,South-Eastern Asia,935,Asia
+"Virgin Islands, British", VG, VGB,92,18.5,-64.5,915,Caribbean,904,Latin America and the Caribbean
+"Virgin Islands, U.S.", VI, VIR,850,18.3333,-64.8333,915,Caribbean,904,Latin America and the Caribbean
+Wallis and Futuna, WF, WLF,876,-13.3,-176.2,957,Polynesia,909,Oceania
+Western Sahara, EH, ESH,732,24.5,-13,912,Northern Africa,903,Africa
+Yemen, YE, YEM,887,15,48,922,Western Asia,935,Asia
+Zambia, ZM, ZMB,894,-15,30,910,Eastern Africa,903,Africa
+Zimbabwe, ZW, ZWE,716,-20,30,910,Eastern Africa,903,Africa
