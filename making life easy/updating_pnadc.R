@@ -9,7 +9,7 @@
 
 # configuracoes gerais ----------------------------------------------------
 
-options(scipen = 99999)
+options(scipen = 99999, timeout = 1000)
 rm(list = ls())
 invisible(gc())
 
