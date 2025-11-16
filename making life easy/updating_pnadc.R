@@ -75,7 +75,7 @@ for(i in seq_along(anos)){
 ###
 
 # ano
-anos = c(2015,2016,2017,2018,2019, 2022,2023,2024)
+anos = c(2016,2017,2018,2019, 2022,2023,2024)
 
 # trimestre
 trimestres = c(2)
