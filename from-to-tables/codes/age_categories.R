@@ -7,4 +7,4 @@ check_and_load_package("wpp2024",github = TRUE, package_rep = "PPgp/wpp2024")
 data("age5categories")
 
 # export
-write.table(age5categories, file = file.path("from-to-tables","age5categories.txt"))
+write.csv(age5categories, file = file.path("from-to-tables","age5categories.txt"))
