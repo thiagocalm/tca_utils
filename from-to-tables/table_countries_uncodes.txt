@@ -150,7 +150,7 @@ Mauritius, MU, MUS,480,-20.2833,57.55,910,Eastern Africa,903,Africa
 Mayotte, YT, MYT,175,-12.8333,45.1667,910,Eastern Africa,903,Africa
 Mexico, MX, MEX,484,23,-102,916,Central America,904,Latin America and the Caribbean
 "Micronesia, Federated States of", FM, FSM,583,6.9167,158.25,954,Micronesia,909,Oceania
-"Moldova, Republic of", MD, MDA,498,47,29,923,Eastern Europe,908,Europe
+"Republic of Moldova", MD, MDA,498,47,29,923,Eastern Europe,908,Europe
 Monaco, MC, MCO,492,43.7333,7.4,926,Western Europe,908,Europe
 Mongolia, MN, MNG,496,46,105,906,Eastern Asia,935,Asia
 Montenegro, ME, MNE,499,42,19,925,Southern Europe,908,Europe
