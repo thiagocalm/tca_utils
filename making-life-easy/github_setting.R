@@ -4,8 +4,8 @@
 library(usethis)
 
 usethis::create_project(
-  file.path("C:\\Users\\DELL\\OneDrive","Trampos","Cebrap","Nucleo de Desenvolvimento","cebrap.lab","2026",
-            "PnadC","cebrap-2026-pnadc")
+  file.path("C:\\Users\\tcordeiro\\OneDrive\\Estudos\\PhD_\\PhD_dissertation\\paper2\\analysis",
+            "kinless_duration")
 )
 
 usethis::use_git_config(user.name = "thiagocalm", # Seu nome
